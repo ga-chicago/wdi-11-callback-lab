@@ -1,8 +1,9 @@
-# wdi-11-callback-lab
+![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# Labs
+# wdi-11-chi _curious-turtles_
 
-## Morning Lab
+## Callback Lab
+
 
 Given, the following object, log the third element from the array
 
